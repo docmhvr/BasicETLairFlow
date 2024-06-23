@@ -1,0 +1,2 @@
+2024-06-23 18:36:07,609 ERROR - [2 / 2] Some workers seem to have died and gunicorn did not restart them as expected
+2024-06-23 18:52:26,071 INFO - Received signal: 15. Closing gunicorn.
