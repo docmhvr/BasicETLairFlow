@@ -16,3 +16,5 @@ In the 2nd DAG, the pipeline performs ETL on a test tree csv file and performs t
 - Apache Airflow (2.6.3)
 - SQlite database
 - Additional Python libraries (if needed)
+
+(Note: In the code the original repo name was ToBeNamedSoon, later changed to BasicETLairFlow)
